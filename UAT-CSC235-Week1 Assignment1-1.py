@@ -10,7 +10,7 @@ print("***Ribbet Welcome to Python Because it is an Awesome Tutorial Ribbet***")
 print('In this lesson, we master the "print" Python command.')
 
 # Create 1st variable
-readyYN = input("Are you ready to hop in? (Y/N)")
+readyYN = input("Are you ready to hop in? (Y/N) ")
 
 # Display user input
 print('Answer is: ', readyYN)
@@ -34,13 +34,16 @@ print('-----------------------------------------------')
 
 # Create extra variable
 print('So...Ribbet, How do you like the Python "print" command?')
-feelings = input("Love It or Hate It? (Love It/Hate It)")
+feelings = input("Love It or Hate It? ")
+print('------------------------------------------------')
 
 # Display extra user input
 print('Feelings are: ', feelings)
 
 # Print some extra information about Python
-print('Love it right?! Ribbet Ribbet,  I know I know lol')
+print('------------------------------------------------')
+print('Love it right?!')
+print('Ribbet Ribbet,  I know I know lol')
 print('-----------------------------------------------')
 
 # Create 2nd variable
@@ -51,7 +54,7 @@ print('Rating: ', rating)
 
 # Print some more information about Python
 print('-----------------------------------------------')
-print('Awesome!!')
+print('Awesome, Thanks!!')
 print('-----------------------------------------------')
 print('Tutorial Complete...Great Job! Ribbet')
 print('-----------------------------------------------')
