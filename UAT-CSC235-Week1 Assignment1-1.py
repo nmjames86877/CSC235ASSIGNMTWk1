@@ -30,7 +30,7 @@ print('------------------------------------------------')
 print('I am the HAL 9000 Computer aka FrogPrince aka Nikolo')
 print('------------------------------------------------')
 print('Pro Tip: the print command must be typed in all lowercase.')
-print('-----------------------------------------------')
+print('------------------------------------------------')
 
 # Create extra variable
 print('So...Ribbet, How do you like the Python "print" command?')
@@ -44,7 +44,7 @@ print('Feelings are: ', feelings)
 print('------------------------------------------------')
 print('Love it right?!')
 print('Ribbet Ribbet,  I know I know lol')
-print('-----------------------------------------------')
+print('------------------------------------------------')
 
 # Create 2nd variable
 rating = input("Please rate this tutorial on a 1-10 scale (with 10 being the best): ")
@@ -53,10 +53,10 @@ rating = input("Please rate this tutorial on a 1-10 scale (with 10 being the bes
 print('Rating: ', rating)
 
 # Print some more information about Python
-print('-----------------------------------------------')
+print('------------------------------------------------')
 print('Awesome, Thanks!!')
-print('-----------------------------------------------')
+print('------------------------------------------------')
 print('Tutorial Complete...Great Job! Ribbet')
-print('-----------------------------------------------')
+print('------------------------------------------------')
 print('Now, Go And Treat Yourself By Doing Something You Love!')
 print('Until Next Time, Ribbet Ribbet Au Revoir!!!')
